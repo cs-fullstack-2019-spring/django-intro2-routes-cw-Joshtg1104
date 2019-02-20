@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Well done. Get in habit of naming routes with unique names. Yours were all named 'index'. No harm no foul here, but those naming rules about to become super important!
+
 # Intro to Django routes 2 graded classwork 
 
 Endpoints are the most important concept when it comes to backend web services. Based on the URL you route the request to the proper piece of code to service the request and return a response.
